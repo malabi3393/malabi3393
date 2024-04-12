@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Alabi</h1>
-<h3 align="center">Bioinformatician | Data Scientist</h3>
 
-- 🌱 I’m currently learning **Bioinformatics**
 
 
 <p align="left">
