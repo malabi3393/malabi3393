@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mariam Alabi</h1>
-
-
 
 <p align="left">
 </p>
